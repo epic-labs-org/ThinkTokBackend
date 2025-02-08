@@ -140,7 +140,6 @@ EIFGENs
 # DW Dreamweaver added files
 _notes
 _compareTemp
-configs/
 dwsync.xml
 dw_php_codehinting.config
 *.mno
@@ -364,7 +363,7 @@ fabric.properties
 # also taken from here):  -o <path>/<filename>
 simv
 
-# Generated for Verilog and VHDL top configs
+# Generated for Verilog and VHDL top config
 simv.daidir/
 simv.db.dir/
 
